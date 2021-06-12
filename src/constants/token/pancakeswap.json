@@ -11,9 +11,9 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "SAFESPACE",
-      "symbol": "SAFESPACE",
-      "address": "0xe1db3d1ee5cfe5c6333be96e6421f9bd5b85c987",
+      "name": "BABYBOSS",
+      "symbol": "BBF",
+      "address": "0x272E923B510154F6285C5A38F24d448d53a833DD",
       "chainId": 56,
       "decimals": 9
     },
